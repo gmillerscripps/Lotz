@@ -1,0 +1,12 @@
+"##Project Name=ca_ne_lotz_20201022_0_DrugSeq_Exp1_YH"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Hu, Yiwen"
+"##Run List=883"
+"##Creation Date=2020-10-22"
+"##Project Description=DrugSeq Experiment 1"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01labLOTZexp1","DrugSeq_Lotz_YiWen; 01YiWen201014","Active","00_nebE7600S_Neb_i7_08bp_BC8","TAATGCGC","00_nebE7600S_Neb_i5_08bp_BC2","ATAGAGGC","human","RNA","","","","","","883"

@@ -1,0 +1,13 @@
+"##Project Name=Lotz_060217-SM"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Mokuda, Sho"
+"##Run List=274"
+"##Creation Date=2017-06-02"
+"##Project Description=2 RNA samples need PolyA RNA seq."
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"KO-IMAC_mock_mRNA_3","","Active","NEB_i7_BC11","TCTCGCGC","NEB_i5_BC7","CAGGACGT","mouse","RNAseq_PolyA","","30","","9.9","","274"
+"KO-IMACP_WWP2_mRNA_3","","Active","NEB_i7_BC12","AGCGATAG","NEB_i5_BC7","CAGGACGT","mouse","RNAseq_PolyA","","15","","9.1","","274"

@@ -1,0 +1,13 @@
+"##Project Name=Lotz_071015"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Alvarez, Oscar"
+"##Run List=51"
+"##Creation Date=2015-07-13"
+"##Project Description=2 human samples need ribo depletion for 1x75 run"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"human_control","","Active","TruSeq_BC7","CAGATC","","","human","RNA-Seq_Ribo_minus","","","","","","51"
+"human_Foxo","","Active","TruSeq_BC8","ACTTGA","","","human","RNA-Seq_Ribo_minus","","","","","","51"

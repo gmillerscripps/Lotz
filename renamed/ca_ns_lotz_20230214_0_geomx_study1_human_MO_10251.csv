@@ -1,0 +1,3 @@
+"Sample","Sample Description","Status","Barcode 1","Barcode Index 1","Barcode 2","Barcode 2 Index","Species","Type","Batch Group","Concentration","Volume","RIN","Comments","Run List"
+"01id","Training1","Active","G","AAAAAAAA","","","human","Nanostring GeoMx","","","","","","10251"
+"02id","Training2","Active","G","AAAAAAAA","","","human","Nanostring GeoMx","","","","","","10251"

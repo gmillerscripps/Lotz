@@ -1,0 +1,13 @@
+"##Project Name=re-Gel purified TruSeq miRNA library_02082013"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=HiSeq"
+"##Status=Completed"
+"##Contact=Saito, Masahiko"
+"##Run List=76"
+"##Creation Date=2013-02-08"
+"##Project Description=re-Gel purified TruSeq miRNA library-2 samples pooled"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"miRNA_OA_11","","Active","TruSeq_BC11","GGCTAC","","","Human","miRNASeq","","","","","pooled samples_L5","76"
+"miRNA_OA_12","","Active","TruSeq_BC12","CTTGTA","","","Human","miRNASeq","","","","","","76"

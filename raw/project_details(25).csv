@@ -1,0 +1,12 @@
+"##Project Name=ca_ns_lotz_20220324_0_DrugSeq_Exp3X3_mouse_AC"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Courties, Alice"
+"##Run List=10132"
+"##Creation Date=2022-03-24"
+"##Project Description="
+"##Analysis Notes=Dispatch BCL data (y/n): n Dispatch fastqs (y/n): y Analysis requested (y/n):  CC dispatch emails also to: acourties@scripps.edu  *Please note one sample is for Goran's DrugSeq"
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01exp3X3MUS","","Active","00_nebE7600S_Neb_i7_08bp_BC3","CGCTCATT","00_nebE7600S_Neb_i5_08bp_BC3","CCTATCCT","Mouse","RNA","","","","","","10132"

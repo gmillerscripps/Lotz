@@ -1,0 +1,13 @@
+"##Project Name=Lotz_07012015"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Matsuzaki, Tokio"
+"##Run List=51"
+"##Creation Date=2015-07-01"
+"##Project Description=2 mouse RNA samples.  Need Ribo depletion."
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"Control","","Active","TruSeq_BC5","ACAGTG","","","mouse","RNA-Seq_Ribo_minus","","","","","","51"
+"Foxo_triple_KO","","Active","TruSeq_BC3","TTAGGC","","","mouse","RNA-Seq_Ribo_minus","","","","","","51"

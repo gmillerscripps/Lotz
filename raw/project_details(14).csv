@@ -1,0 +1,12 @@
+"##Project Name=ca_ns_lotz_20230124_0_JCseq_human_KM"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Myers, Kevin"
+"##Run List=10233"
+"##Creation Date=2023-01-24"
+"##Project Description=Re-prep of ca_ns_lotz_20220330_0_DrugSeq_Exp3X3_human_KM Using JCseq (18 samples)"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01id","","Active","00_nebE7600S_Neb_i7_08bp_BC3","CGCTCATT","00_nebE7600S_Neb_i5_08bp_BC3","CCTATCCT","human","JCSeq","","","","","","10233"

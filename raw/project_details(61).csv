@@ -1,0 +1,13 @@
+"##Project Name=ca_ne_Lotz_20190122_TD"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Duffy, Tomas"
+"##Run List=531"
+"##Creation Date=2019-01-24"
+"##Project Description=2 GROSeq libraries ready for NextSeq 75 cycles.  20-30M each.  User prepared the samples.  =====  runs:  1of1 ca_ne_531 QC_PASSED"
+"##Analysis Notes=Tomas request fastQC files.  Samples were prepared by a collaborator."
+"##Admin Comments====================== CHECKLIST FOR NN TO IP: account_to_bill:  ? order_from_customer: Y sample_info_ok: Y onboarded: ? product:  libraryseq price: 50 x sn075 (50 x $5.50) work plan: Y bioinfo plan: NA ===================== CHECKLIST FOR CC TO COMPLETE: qc_passed: ? work_plan_all_done: ? enough_reads_confirmed_by_cust: ? run_numbers_correct : ? bioinfo_assigned: ? custom_bioinfo_quoted: ? data_dispatched: ?"
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01","","Active","08_nebE7335E7500_NebnextMultiplex_i7_8bp_BC5","ACAGTGAT","","","human","GROSeq","","","","","","531"
+"02","","Active","08_nebE7335E7500_NebnextMultiplex_i7_8bp_BC7","CAGATCAT","","","human","GROSeq","","","","","","531"

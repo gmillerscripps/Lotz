@@ -1,0 +1,11 @@
+"##Project Name=Lotz_11102014"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=HiSeq"
+"##Status=Holding"
+"##Contact=Teramura, Takeshi"
+"##Run List="
+"##Creation Date=2014-11-11"
+"##Project Description=8 samples for RNAseq, one lane. Ribo deplete with NEB kit"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List

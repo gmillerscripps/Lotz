@@ -1,0 +1,13 @@
+"##Project Name=Lotz_072117"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Bekki, Hirofumi"
+"##Run List=288"
+"##Creation Date=2017-07-21"
+"##Project Description=2 human chondrocytes ChIPseq samples. 20M per sample"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"Elute_anti-foxo1","8.86 ng/ul in 19 uL","Active","NEB_i7_BC3","CGCTCATT","NEB_i5_BC1","TATAGCCT","human","ChIPseq","","","","","","288"
+"WCE","88ng/ul in 19 uL","Active","NEB_i7_BC4","GAGATTCC","NEB_i5_BC1","TATAGCCT","human","ChIPseq","","","","","","288"

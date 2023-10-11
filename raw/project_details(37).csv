@@ -1,0 +1,13 @@
+"##Project Name=ca_ns_lotz_20210615_0_10X3prime_JM"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Mertens, Jasmin"
+"##Run List=10044"
+"##Creation Date=2021-06-21"
+"##Project Description=Human vertebral disc cells for 3' SC v3.1 RNA seq 10x Protocol CG000315 Rev B Dual Index  Sample Date = 6/15/2021  2 samples:  Sample 1: Nucleus pulposus Target ~8,000 cells Target 20,000 reads/cell, ~200 million reads/sample  Sample 2: Annulus fibrosus Target ~10,000 cells Target 20,000 reads/cell, ~200 million reads/sample  NextSeq Flowcell = 400mil reads of a P3 100 cycle flowcell, shared with Teijaro/Jerry"
+"##Analysis Notes=Dispatch BCL data (y/n): Dispatch fastqs (y/n): Analysis requested (y/n): Y CC dispatch emails also to: mlotz@scripps.edu and jmertens@scripps.edu"
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01idNUCLPULP","cells from nucleus pulposus","Active","tenx_SI_TT_F_i7_10bp_BC5","CGGCTGGATG","tenx_SI_TT_F_i5_10bp_BC5","TGATAAGCAC","human","10XRNASeq_Chromiumv3","","","","","","10044"
+"02idANLSFIBR","cells from annulus fibrosus","Active","tenx_SI_TT_G_i7_10bp_BC5","ATAGGGCGAG","tenx_SI_TT_G_i5_10bp_BC5","TGCATCGAGT","human","10XRNASeq_Chromiumv3","","","","","","10044"

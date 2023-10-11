@@ -1,0 +1,7 @@
+"Sample","Sample Description","Status","Barcode 1","Barcode Index 1","Barcode 2","Barcode 2 Index","Species","Type","Batch Group","Concentration","Volume","RIN","Comments","Run List"
+"01idOC001ATACdt020223","Osteochondral nuclei_001_20230202 ATAC library","Active","tenx_SI_NA_C2_BC1","AATCACTA","00_nebE7600S_Neb_i5_08bp_BC1","TATAGCCT","human","10X_Multiome ATAC and GEX","","","","","",""
+"01idOC001ATACdt020223bc1","Osteochondral nuclei_001_20230202 ATAC library","Active","tenx_SI_NA_C2_BC1","AATCACTA","","","human","10X_Multiome ATAC and GEX","","","","","","10239"
+"01idOC001ATACdt020223bc2","Osteochondral nuclei_001_20230202 ATAC library","Active","tenx_SI_NA_C2_BC2","CCGAGAAC","","","human","10X_Multiome ATAC and GEX","","","","","","10239"
+"01idOC001ATACdt020223bc3","Osteochondral nuclei_001_20230202 ATAC library","Active","tenx_SI_NA_C2_BC3","GTAGTGCG","","","human","10X_Multiome ATAC and GEX","","","","","","10239"
+"01idOC001ATACdt020223bc4","Osteochondral nuclei_001_20230202 ATAC library","Active","tenx_SI_NA_C2_BC4","TGCTCTGT","","","human","10X_Multiome ATAC and GEX","","","","","","10239"
+"02idOC001GEXdt020223","Osteochondral nuclei_001_20230202 GEX library","Active","tenx_SI_TT_D_i7_10bp_BC10","ATGCGAATGG","tenx_SI_TT_D_i5_10bp_BC10","ACAAGTGTCG","human","10X_Multiome ATAC and GEX","","","","","","10238"

@@ -1,0 +1,12 @@
+"##Project Name=ca_ne_Lotz_20181211_TD"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Duffy, Tomas"
+"##Run List=519"
+"##Creation Date=2018-12-11"
+"##Project Description=single ChIPseq sample, library prep and 20M 1 x 75 reads   run  1of1: ca_ne_519_004_020_020_lotz PASSED    Description of project  =====    runs 1of1 ca_ne_519_004_020_020_lotz runs:  1of 1 ca_ne_519_004_020_020_lotz PASSED"
+"##Analysis Notes=None"
+"##Admin Comments====================== CHECKLIST FOR NN TO IP: account_to_bill:  ? order_from_customer: Y sample_info_ok: Y onboarded: Y product:  ChIPseq price:  1 x bd001n ($340) work plan: ? bioinfo plan: ? ===================== CHECKLIST FOR CC TO COMPLETE: qc_passed: ? work_plan_all_done: ? enough_reads_confirmed_by_cust: ? run_numbers_correct : ? bioinfo_assigned: ? custom_bioinfo_quoted: ? data_dispatched: ?"
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"chipseq01","","Active","00_nebE7600S_Neb_i7_08bp_BC11","TCTCGCGC","00_nebE7600S_Neb_i5_08bp_BC2","ATAGAGGC","human","ChIPSeq","","","","","","519"

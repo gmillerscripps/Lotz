@@ -1,0 +1,13 @@
+"##Project Name=Lotz_010917-TM"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Matsuzaki, Tokio"
+"##Run List=234"
+"##Creation Date=2017-01-11"
+"##Project Description=2 ChIP samples 1X75...20M reads each"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"0107_Flag","","Active","NEB_i7_BC12","AGCGATAG","NEB_i5_BC8","GTACTGAC","mouse","ChIPSeq","","","","","","234"
+"1221_Flag","","Active","NEB_i7_BC11","TCTCGCGC","NEB_i5_BC8","GTACTGAC","mouse","ChIPSeq","","","","","","234"

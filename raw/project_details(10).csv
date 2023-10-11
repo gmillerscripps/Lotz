@@ -1,0 +1,13 @@
+"##Project Name=ca_ns_lotz_20230214_0_geomx_study1_human_MO"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Olmer, Merissa"
+"##Run List=10251"
+"##Creation Date=2023-03-09"
+"##Project Description=Basic Details: 	  Sample Submission ID	392_5789  User	Olmer Merissa  Lab	Lotz  Account Code	(08)RAG049617B(C3-554316)-100.00%  Fee	0.00 USD  Discount	0.00%  Actual Fee	  Quoted Amount	  Expected Date	  Actual Date	  Service Id	ca_ns_lotz_20230214_0_geomx_study1_human_MO 	 	 Project Information:	 Study title	GeoMx Pilot experiments Sample Type description (e.g. Jurkat cell line: liver tissue)	2 GeoMx libraries Species	human 	 Services:	 Please briefly describe what you would like the Genomics Core to do for you	GeoMx library preps 	 Samples:	 Number of Samples submitted	2 How many reads per sample are needed?	 How many reads total for all samples are needed?	 	 Additional Information:	 Would you like Genomics Core to prepare your sequencing libraries?	N/A Would you like the CCBB to provide data analysis?	No We highly recommend completing this section in anticipation of future GEO submissions	 Goal of the Project	 Details of requested bioinformatics analyses	 References to closely related work (optional)	 Would you prefer to receive a bcl files and/or a fastq files?	 	 Experimental Variables:	 Variable 1	 Variable 2	 Variable 3	 Variable 4	 Variable 5	 Variable 6	 Variable 7"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01id","Training1","Active","G","AAAAAAAA","","","human","Nanostring GeoMx","","","","","","10251"
+"02id","Training2","Active","G","AAAAAAAA","","","human","Nanostring GeoMx","","","","","","10251"

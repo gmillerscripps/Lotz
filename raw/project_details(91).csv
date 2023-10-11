@@ -1,0 +1,12 @@
+"##Project Name=Lotz_Ryu_miRNA_Cart_091613"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=HiSeq"
+"##Status=Completed"
+"##Contact=Akagi, Ryuichiro"
+"##Run List=110"
+"##Creation Date=2013-09-27"
+"##Project Description=1 miRNA bc-3...spike into lane at 5%"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"OA_Cart_9_miRNA_3","","Active","TruSeq_BC3","TTAGGC","","","human","miRNASeq","","","","","","110"

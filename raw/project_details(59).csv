@@ -1,0 +1,35 @@
+"##Project Name=ca_ne_Lotz-TD_20190627-10X3primev3"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Duffy, Tomas"
+"##Run List=624, 625"
+"##Creation Date=2019-07-10"
+"##Project Description=3 Human Chondrocytes & Meniscus Cells for 3' SC v3 RNA seq =====  runs:  1of2 2of2"
+"##Analysis Notes=single cell rnaseq"
+"##Admin Comments====================== CHECKLIST FOR NN TO IP: N NotStranded or R ReverseStranded :  Average construct size (including adapters, including reads): Average Fragment Size (excluding adapters, including reads): Average Insert Size (excluding adapters, excluding reads):   RNA/DNA? product:  ? price:  #sample x $persampleprice:           -  includes CCCB cut : $ work plan: ?"
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"01regCHONDRconHEAbc1","healthy chondrocytes
+01_ChonBC1","Active","tenx_SI_GA_F7_BC1","CGTGCAGA","","","Human","10XRNASeq_Chromiumv3","1","","","","","624"
+"01regCHONDRconHEAbc2","healthy chondrocytes
+01_ChonBC2","Active","tenx_SI_GA_F7_BC2","AACAAGAT","","","Human","10XRNASeq_Chromiumv3","1","","","","","624"
+"01regCHONDRconHEAbc3","healthy chondrocytes
+01_ChonBC3","Active","tenx_SI_GA_F7_BC3","TCGCTTCG","","","Human","10XRNASeq_Chromiumv3","1","","","","","624"
+"01regCHONDRconHEAbc4","healthy chondrocytes
+01_ChonBC4","Active","tenx_SI_GA_F7_BC4","GTATGCTC","","","Human","10XRNASeq_Chromiumv3","1","","","","","624"
+"02regAVASMEconHEAbc1","avascular healthy meniscus cells
+02_MC_AVASBC1","Active","tenx_SI_GA_G7_BC1","GGTATGCA","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"02regAVASMEconHEAbc2","avascular healthy meniscus cells
+02_MC_AVASBC2","Active","tenx_SI_GA_G7_BC2","CTCGAAAT","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"02regAVASMEconHEAbc3","avascular healthy meniscus cells
+02_MC_AVASBC3","Active","tenx_SI_GA_G7_BC3","ACACCTTC","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"02regAVASMEconHEAbc4","avascular healthy meniscus cells
+02_MC_AVASBC4","Active","tenx_SI_GA_G7_BC4","TAGTGCGG","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"03regVASCMEconHEAbc1","vascular healthy meniscus cells
+03_MC_VASBC1","Active","tenx_SI_GA_H7_BC1","AGCTATCA","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"03regVASCMEconHEAbc2","vascular healthy meniscus cells
+03_MC_VASBC2","Active","tenx_SI_GA_H7_BC2","CATATAAC","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"03regVASCMEconHEAbc3","vascular healthy meniscus cells
+03_MC_VASBC3","Active","tenx_SI_GA_H7_BC3","TCAGGGTG","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"
+"03regVASCMEconHEAbc4","vascular healthy meniscus cells
+03_MC_VASBC4","Active","tenx_SI_GA_H7_BC4","GTGCCCGT","","","Human","10XRNASeq_Chromiumv3","2","","","","","625"

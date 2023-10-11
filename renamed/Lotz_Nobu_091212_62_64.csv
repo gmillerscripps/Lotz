@@ -1,0 +1,5 @@
+"Sample","Sample Description","Status","Barcode 1","Barcode Index 1","Barcode 2","Barcode 2 Index","Species","Type","Batch Group","Concentration","Volume","RIN","Comments","Run List"
+"E215_minus","","Active","NuGEN_BC9","ACACGA","","","human","RNAseq","","","","","RNASeq, Encore DR. 4 samples, 1 x 100. One lane","62, 64"
+"E215_plus","","Active","NuGEN_BC10","CACACA","","","human","RNAseq","","","","","RNASeq, Encore DR. 4 samples, 1 x 100. One lane","62, 64"
+"E616_minus","","Active","NuGEN_BC15","GTGGCC","","","human","RNAseq","","","","","RNASeq, Encore DR. 4 samples, 1 x 100. One lane","62, 64"
+"E616_plus","","Active","NuGEN_BC16","TGTTGC","","","human","RNAseq","","","","","RNASeq, Encore DR. 4 samples, 1 x 100. One lane","62, 64"

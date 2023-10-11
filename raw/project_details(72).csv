@@ -1,0 +1,13 @@
+"##Project Name=Lotz_061517-SM"
+"##Primary Investigator=ca_Lotz, Martin"
+"##Run Type=NextSeq"
+"##Status=Completed"
+"##Contact=Mokuda, Sho"
+"##Run List=280"
+"##Creation Date=2017-06-15"
+"##Project Description=2 samples need chip seq.  20M per sample"
+"##Analysis Notes="
+"##Admin Comments="
+Sample,Sample Description,Status,Barcode 1,Barcode Index 1,Barcode 2,Barcode 2 Index,Species,Type,Batch Group,Concentration,Volume,RIN,Comments,Run List
+"Elute_antiRUNx2","","Active","NEB_i7_BC11","TCTCGCGC","NEB_i5_BC8","GTACTGAC","mouse","chipseq","","","","","","280"
+"WCE","","Active","NEB_i7_BC12","AGCGATAG","NEB_i5_BC8","GTACTGAC","mouse","chipseq","","","","","","280"
