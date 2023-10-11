@@ -1,0 +1,107 @@
+project,run_id,no_info,type,sample_names,file_name,orig_name
+ca_ns_lotz_20230918_0_jcseq_human_HS,100339,TRUE,JCSeq,01idfake,noinfo_ca_ns_lotz_20230918_0_jcseq_human_HS_100339.csv,project_details(1).csv
+ca_ns_lotz_20230214_0_geomx_study1_human_MO,10251,TRUE,Nanostring GeoMx,"01id, 02id",noinfo_ca_ns_lotz_20230214_0_geomx_study1_human_MO_10251.csv,project_details(10).csv
+re.Gel.purified.TruSeq.miRNA.library_02082013,76,FALSE,miRNASeq,"miRNA_OA_11, miRNA_OA_12",re.Gel.purified.TruSeq.miRNA.library_02082013_76.csv,project_details(100).csv
+TruSeq.miRNA.library_02082013,76,FALSE,miRNASeq,"OA_meniscus1, OA_meniscus2, OA_meniscus3, OA_meniscus4, OA_meniscus5, OA_meniscus6, OA_meniscus7, OA_meniscus8",TruSeq.miRNA.library_02082013_76.csv,project_details(101).csv
+Masa_mRNA_miRNA.RNASeq_012513,75,FALSE,miRNA-Seq,"miRNA_normal4, miRNA_normal9, miRNA_normal11, miRNA_normal12, OA_Meniscus1, OA_Meniscus2, OA_Meniscus3, OA_Meniscus4, OA_Meniscus5, OA_Meniscus6, OA_Meniscus7, OA_Meniscus8",Masa_mRNA_miRNA.RNASeq_012513_75.csv,project_details(102).csv
+Masa_miRNA.121412,72,FALSE,RNAseq,"Normal4, Normal8, Normal9, Normal10, Normal11, Normal12, OA8, OA9, OA10, OA11, OA12",Masa_miRNA.121412_72.csv,project_details(103).csv
+Masa_NuGen.121412,72,FALSE,RNASeq_NUGEN,"Normal2, Normal4, Normal5, Normal6, Normal7, Normal8, OA1, OA2, OA3, OA4, OA5",Masa_NuGen.121412_72.csv,project_details(104).csv
+Lotz_Nobu_091212,62_64,FALSE,RNAseq,"E215_minus, E215_plus, E616_minus, E616_plus",Lotz_Nobu_091212_62_64.csv,project_details(105).csv
+Lotz_060612,NORUN,FALSE,RNASeq (NuGEN),"TKA_lesion, TKA_normal, TKA_osteophyte",Lotz_060612_NORUN.csv,project_details(106).csv
+ca_ns_lotz_20230221_0_JCseq_human_KM,10244,TRUE,JCSeq,01id,noinfo_ca_ns_lotz_20230221_0_JCseq_human_KM_10244.csv,project_details(11).csv
+ca_ns_lotz_20230223_0_JCseq_human_MK,10244,TRUE,JCSeq,01id,noinfo_ca_ns_lotz_20230223_0_JCseq_human_MK_10244.csv,project_details(12).csv
+ca_ns_lotz_20230207_0_10Xmultiome_human_EW,10238_10239,FALSE,10X_Multiome ATAC and GEX,"01idOC001ATACdt020223, 01idOC001ATACdt020223bc1, 01idOC001ATACdt020223bc2, 01idOC001ATACdt020223bc3, 01idOC001ATACdt020223bc4, 02idOC001GEXdt020223",ca_ns_lotz_20230207_0_10Xmultiome_human_EW_10238_10239.csv,project_details(13).csv
+ca_ns_lotz_20230124_0_JCseq_human_KM,10233,TRUE,JCSeq,01id,noinfo_ca_ns_lotz_20230124_0_JCseq_human_KM_10233.csv,project_details(14).csv
+ca_ns_lotz_20230117_0_JCseq_human_JM,10233,TRUE,JCSeq,01id,noinfo_ca_ns_lotz_20230117_0_JCseq_human_JM_10233.csv,project_details(15).csv
+ca_ns_lotz_20230103_0_JCseq_human_IK,10233,TRUE,JCSeq,01id,noinfo_ca_ns_lotz_20230103_0_JCseq_human_IK_10233.csv,project_details(16).csv
+ca_ns_lotz_20221116_0_JCSeq_human_JM,10217,TRUE,JCseq,01id,noinfo_ca_ns_lotz_20221116_0_JCSeq_human_JM_10217.csv,project_details(17).csv
+ca_ns_lotz_20221019_0_RNAseq_human_JM,10202_10226,FALSE,RNASeq,"01idNP21dn07gd2N3-1GR2N3, 02idNP21dn11gd3-2GR3, 03idNP21dn13gd3-2GR3, 04idNP21dn14gd2N3-1GR2N3, 05idNP21dn15gd2-0GR2, 06idNP21dn16gd3N4-3GR3N4, 07idNP21dn17gd3N4-3GR3N4, 08idNP21dn18gd2-0GR2, 09idNP22dn01gd2-0GR2, 10idNP22dn02gd3N4-3GR3N4, 11idNP22dn03gd3N4-3GR3N4, 12idAF20dn02gd3N4-3GR3N4, 13idAF20dn06gd3N4-3GR3N4, 14idAF21dn07gd2N3-1GR2N3, 15idAF21dn11gd3-2GR3, 16idAF21dn13gd3-2GR3, 17idAF21dn14gd2N3-1GR2N3, 18idAF21dn15gd2-0GR2, 19idAF21dn16gd3N4-3GR3N4, 20idAF21dn17gd3N4-3GR3N4, 21idAF21dn18gd2-0GR2, 22idAF22dn01gd2-0GR2, 23idAF22dn02gd3N4-3GR3N4, 24idAF22dn03gd3N4-3GR3N4",ca_ns_lotz_20221019_0_RNAseq_human_JM_10202_10226.csv,project_details(18).csv
+ca_ns_lotz_20221007_0_JCSeq_rat_JM,10205_10217,TRUE,custom,01id,noinfo_ca_ns_lotz_20221007_0_JCSeq_rat_JM_10205_10217.csv,project_details(19).csv
+ca_ns_lotz_20230809_0_10Xmultiome_human_EW,10318_10319,FALSE,10X_Multiome ATAC and GEX,"01idCARTILAGE001x20230809ATAC, 02idCARTILAGE002x20230809ATAC, 03idCARTILAGE001x20230809GEX, 04idCARTILAGE002x20230809GEX",ca_ns_lotz_20230809_0_10Xmultiome_human_EW_10318_10319.csv,project_details(2).csv
+ca_ns_lotz_20220922_0_JCseq_rats_JM,NORUN,TRUE,NULL,,noinfo_ca_ns_lotz_20220922_0_JCseq_rats_JM_NORUN.csv,project_details(20).csv
+ca_ns_lotz_20220726_0_JCSeq_human_JM,10179,TRUE,RNA,01id01,noinfo_ca_ns_lotz_20220726_0_JCSeq_human_JM_10179.csv,project_details(21).csv
+ca_ns_lotz_20220811_0_JCSeq_human_MK,10179,TRUE,RNA,01id01,noinfo_ca_ns_lotz_20220811_0_JCSeq_human_MK_10179.csv,project_details(22).csv
+ca_ns_lotz_20220330_0_DrugSeq_Exp3X3_human_KM,10132,TRUE,RNA,01exp3X3HUMKM,noinfo_ca_ns_lotz_20220330_0_DrugSeq_Exp3X3_human_KM_10132.csv,project_details(23).csv
+ca_ns_lotz_20220404_0_DrugSeq_Exp3X3_human_KL,10132_10133,TRUE,RNA,"01exp3X3HUMKL, 02exp3X3HUMKL, 03exp3X3HUMKL",noinfo_ca_ns_lotz_20220404_0_DrugSeq_Exp3X3_human_KL_10132_10133.csv,project_details(24).csv
+ca_ns_lotz_20220324_0_DrugSeq_Exp3X3_mouse_AC,10132,TRUE,RNA,01exp3X3MUS,noinfo_ca_ns_lotz_20220324_0_DrugSeq_Exp3X3_mouse_AC_10132.csv,project_details(25).csv
+ca_ns_lotz_20220119_0_DrugSeq_Exp3X3_human_KL,10104,TRUE,RNA,01exp3X3HUM,noinfo_ca_ns_lotz_20220119_0_DrugSeq_Exp3X3_human_KL_10104.csv,project_details(26).csv
+ca_ns_lotz_20220110_0_ChIPseq_human_MK,10101,FALSE,LIBSeq,"01idEMPTYHACHIP, 02idEMPTYINPUT",ca_ns_lotz_20220110_0_ChIPseq_human_MK_10101.csv,project_details(27).csv
+ca_ns_lotz_20220110_0_DrugSeq_Exp3X3_mouse_AC,10104,TRUE,RNA,01exp3X3MUS,noinfo_ca_ns_lotz_20220110_0_DrugSeq_Exp3X3_mouse_AC_10104.csv,project_details(28).csv
+ca_ns_lotz_20211217_0_10X3prime_human_HS,10103,FALSE,10XRNAseq_Chromiumv3,"01regCARTIconHEAnm6, 02regMENISconHEAnm7",ca_ns_lotz_20211217_0_10X3prime_human_HS_10103.csv,project_details(29).csv
+ca_mi_lotz_20230507_0_RNAseq_human_MO,100957,FALSE,RNAseq,"01idN1, 02idN2, 03idOA1, 04idOA2",ca_mi_lotz_20230507_0_RNAseq_human_MO_100957.csv,project_details(3).csv
+ca_ns_lotz_20211119_0_10X3prime_HS,10092,TRUE,10XRNAseq_Chromiumv3,01regCARTIconOARnm6,noinfo_ca_ns_lotz_20211119_0_10X3prime_HS_10092.csv,project_details(30).csv
+ca_ns_lotz_20211103_0_10X3prime_HS,10087,FALSE,10XRNAseq_Chromiumv3,"01regCARTIconOARnm5, 02regMENISconOARnm6",ca_ns_lotz_20211103_0_10X3prime_HS_10087.csv,project_details(31).csv
+ca_ns_lotz_2021026_0_10X3prime_HS,10084,FALSE,10XRNAseq_Chromiumv3,"01regCARTIconHEAnm5, 02regMENISconHEAnm5",ca_ns_lotz_2021026_0_10X3prime_HS_10084.csv,project_details(32).csv
+ca_ns_lotz_20210923_0_10X3prime_HS,10070,FALSE,10XRNAseq_Chromiumv3,"01regCARTIconOARnm4, 02regMENISconOARnm5",ca_ns_lotz_20210923_0_10X3prime_HS_10070.csv,project_details(33).csv
+ca_ns_lotz_20210924_0_10X3prime_HS,10070,FALSE,10XRNAseq_Chromiumv3,"01regCARTIconHEAnm4, 02regMENISconHEAnm5",ca_ns_lotz_20210924_0_10X3prime_HS_10070.csv,project_details(34).csv
+ca_ns_lotz_20210927_0_DrugSeq_Exp3X3_AC,10073,TRUE,RNA,"01exp3X3MUS, 02exp3X3MUS, 03exp3X3MUS",noinfo_ca_ns_lotz_20210927_0_DrugSeq_Exp3X3_AC_10073.csv,project_details(35).csv
+ca_ns_lotz_20210622_0_ChIPseq_human_MK,10038_10042,FALSE,ChIPSeq,"01KLF4HAChIP1, 02KLF4HAChIP2, 03KLF4HAChIP3, 04HAKLF4IgG, 05HAKLF4input",ca_ns_lotz_20210622_0_ChIPseq_human_MK_10038_10042.csv,project_details(36).csv
+ca_ns_lotz_20210615_0_10X3prime_JM,10044,FALSE,10XRNASeq_Chromiumv3,"01idNUCLPULP, 02idANLSFIBR",ca_ns_lotz_20210615_0_10X3prime_JM_10044.csv,project_details(37).csv
+ca_ns_lotz_20210703_0_DrugSeq_Exp3X3_KL,10041,TRUE,DNA,01exp3X3MUS,noinfo_ca_ns_lotz_20210703_0_DrugSeq_Exp3X3_KL_10041.csv,project_details(38).csv
+ca_ns_lotz_20210514_0_Exp3X3_rat_YH,10023,TRUE,DrugSeq,"02exp3X3RAT, 03exp3X3RAT, 04exp3X3RAT, 05exp3X3RAT, 06exp3X3RAT",noinfo_ca_ns_lotz_20210514_0_Exp3X3_rat_YH_10023.csv,project_details(39).csv
+ca_ns_lotz_20230630_0_10Xmultiome_human_EW,10311_10312_10335,FALSE,10X_Multiome ATAC and GEX,"01idCARTILAGE001x20230630ATAC, 02idSYNOVIUM001x20230630ATAC, 03idBONE001x20230630GEX, 04idCARTILAGE001x20230630GEX, 05idSYNOVIUM001x20230630GEX",ca_ns_lotz_20230630_0_10Xmultiome_human_EW_10311_10312_10335.csv,project_details(4).csv
+ca_ne_lotz_20210202_1_DRUGseq_human_MK,NORUN,TRUE,NULL,,noinfo_ca_ne_lotz_20210202_1_DRUGseq_human_MK_NORUN.csv,project_details(40).csv
+ca_ns_lotz_20210426_0_DrugSeq_Exp3X3_human_MK,10018,TRUE,DrugSeq,"01exp3X3HUM, 02exp3X3HUM, 03exp3X3HUM",noinfo_ca_ns_lotz_20210426_0_DrugSeq_Exp3X3_human_MK_10018.csv,project_details(41).csv
+ca_ns_lotz_20210426_1_DrugSeq_Exp3X3_mouse_AC,10018,TRUE,DrugSeq,04exp3X3MUS,noinfo_ca_ns_lotz_20210426_1_DrugSeq_Exp3X3_mouse_AC_10018.csv,project_details(42).csv
+ca_ne_lotz_20210202_0_DrugSeq_human_KM,933,TRUE,DrugSeq,"01exp3X3HUM, 02exp3X3HUM",noinfo_ca_ne_lotz_20210202_0_DrugSeq_human_KM_933.csv,project_details(43).csv
+ca_ne_lotz_20210121_0_DrugSeq_Exp3X3_human_YH,930,TRUE,DrugSeq,06exp3X3HUM,noinfo_ca_ne_lotz_20210121_0_DrugSeq_Exp3X3_human_YH_930.csv,project_details(44).csv
+ca_ne_lotz_20210121_1_DrugSeq_Exp3X3_rat_YH,930,TRUE,DrugSeq,"01exp3X3RAT, 02exp3X3RAT, 03exp3X3RAT, 04exp3X3RAT",noinfo_ca_ne_lotz_20210121_1_DrugSeq_Exp3X3_rat_YH_930.csv,project_details(45).csv
+ca_ne_lotz_20210121_2_DrugSeq_Exp3X3_mouse_YH,930,TRUE,DrugSeq,05exp3X3MUS,noinfo_ca_ne_lotz_20210121_2_DrugSeq_Exp3X3_mouse_YH_930.csv,project_details(46).csv
+ca_ne_lotz_20201210_0_10X3primev3dot1_JM,920,FALSE,10XRNASeq_Chromiumv3,"01idAFbc1, 01idAFbc2, 01idAFbc3, 01idAFbc4",ca_ne_lotz_20201210_0_10X3primev3dot1_JM_920.csv,project_details(47).csv
+ca_ne_lotz_20201022_0_DrugSeq_Exp1_YH,883,TRUE,RNA,01labLOTZexp1,noinfo_ca_ne_lotz_20201022_0_DrugSeq_Exp1_YH_883.csv,project_details(48).csv
+ca_ne_lotz_20200710_0_10X3primev3.1_JM,816,FALSE,10XRNASeq_Chromiumv3,"01sidAF01bc1, 01sidAF01bc2, 01sidAF01bc3, 01sidAF01bc4, 02sidNP01bc1, 02sidNP01bc2, 02sidNP01bc3, 02sidNP01bc4",ca_ne_lotz_20200710_0_10X3primev3.1_JM_816.csv,project_details(49).csv
+ca_ns_lotz_20230627_0_JCseq_human_EW,10300_10322,TRUE,JCSeq,01idEW01,noinfo_ca_ns_lotz_20230627_0_JCseq_human_EW_10300_10322.csv,project_details(5).csv
+ca_ne_lotz_20200618_0_10X3primev3_TD,806,FALSE,10XRNASeq_Chromiumv3,"01regMENISCconOARbc1, 01regMENISCconOARbc2, 01regMENISCconOARbc3, 01regMENISCconOARbc4",ca_ne_lotz_20200618_0_10X3primev3_TD_806.csv,project_details(50).csv
+ca_ne_lotz_20200626_0_10X3primev3.1_JM,812,FALSE,10XRNASeq_Chromiumv3,"01sidAFIBROSUSbc1, 01sidAFIBROSUSbc2, 01sidAFIBROSUSbc3, 01sidAFIBROSUSbc4",ca_ne_lotz_20200626_0_10X3primev3.1_JM_812.csv,project_details(51).csv
+ca_ne_lotz_20200203_0_10X3primev3_TD,742_806,FALSE,10X3primeV3,"02regMENISCconHEAbc1, 02regMENISCconHEAbc2, 02regMENISCconHEAbc3, 02regMENISCconHEAbc4",ca_ne_lotz_20200203_0_10X3primev3_TD_742_806.csv,project_details(52).csv
+ca_ne_lotz_20200121_0_10X3primev3_TD,729,FALSE,10XRNASeq_Chromiumv3,"01regCHONDRconOARbc1, 01regCHONDRconOARbc2, 01regCHONDRconOARbc3, 01regCHONDRconOARbc4, 02regMENISCconOARbc1, 02regMENISCconOARbc2, 02regMENISCconOARbc3, 02regMENISCconOARbc4",ca_ne_lotz_20200121_0_10X3primev3_TD_729.csv,project_details(53).csv
+ca_ne_lotz_20191212_0_10X3primev3_TD,712,FALSE,10XRNASeq_Chromiumv3,"01regCHONDRconHEAbc1, 01regCHONDRconHEAbc2, 01regCHONDRconHEAbc3, 01regCHONDRconHEAbc4, 02regMENISCconHEAbc1, 02regMENISCconHEAbc2, 02regMENISCconHEAbc3, 02regMENISCconHEAbc4",ca_ne_lotz_20191212_0_10X3primev3_TD_712.csv,project_details(54).csv
+ca_ne_lotz_20191202_0_10X3primev3_TD,704,FALSE,10XRNASeq_Chromiumv3,"01regCHONDRconHEAbc1, 01regCHONDRconHEAbc2, 01regCHONDRconHEAbc3, 01regCHONDRconHEAbc4, 02regMENISCconHEAbc1, 02regMENISCconHEAbc2, 02regMENISCconHEAbc3, 02regMENISCconHEAbc4",ca_ne_lotz_20191202_0_10X3primev3_TD_704.csv,project_details(55).csv
+ca_ne_lotz_20191015_TD_10X3primev3,684,FALSE,10XRNASeq_Chromiumv3,"01regCHONDRconOARbc1, 01regCHONDRconOARbc2, 01regCHONDRconOARbc3, 01regCHONDRconOARbc4, 01tisCARconHEAbc1, 01tisCARconHEAbc2, 01tisCARconHEAbc3, 01tisCARconHEAbc4, 01tisMENconHEAbc1, 01tisMENconHEAbc2, 01tisMENconHEAbc3, 01tisMENconHEAbc4, 02regMENISCconOARbc1, 02regMENISCconOARbc2, 02regMENISCconOARbc3, 02regMENISCconOARbc4",ca_ne_lotz_20191015_TD_10X3primev3_684.csv,project_details(56).csv
+ca_ne_Lotz.TD_20190912,659,FALSE,RNASeqCustomkit,"01xNMx051019, 02xOAx051019, 03xNMx052919, 04xOAx052919, 05xNMx060519, 06xOAx060519",ca_ne_Lotz.TD_20190912_659.csv,project_details(57).csv
+ca_ne_Lotz.TD_20190822.10X3primev3,653,FALSE,10XRNASeq_Chromiumv3,"01regCHONDRconOARbc1, 01regCHONDRconOARbc2, 01regCHONDRconOARbc3, 01regCHONDRconOARbc4, 02regMENISCconOARbc1, 02regMENISCconOARbc2, 02regMENISCconOARbc3, 02regMENISCconOARbc4",ca_ne_Lotz.TD_20190822.10X3primev3_653.csv,project_details(58).csv
+ca_ne_Lotz.TD_20190627.10X3primev3,624_625,FALSE,Human,"01regCHONDRconHEAbc1, 624, , , , , 2, 10XRNASeq_Chromiumv3, Human, , , TCAGGGTG, tenx_SI_GA_H7_BC4",ca_ne_Lotz.TD_20190627.10X3primev3_624_625.csv,project_details(59).csv
+ca_ns_lotz_20230628_0_JCseq_mouse_IK,10300_10322,TRUE,JCSeq,01idIK01,noinfo_ca_ns_lotz_20230628_0_JCseq_mouse_IK_10300_10322.csv,project_details(6).csv
+ca_ne_Lotz_20190403,580,FALSE,Qiagen,"01condDMSOrep50, 02condKA34rep50, 03condDMSOrep80, 04condKA34rep80, 05condDMSOrep21, 06condKA34rep21, 07condDMSOrep79, 08condKA34rep79, 09condDMSOrep81, 10condKA34rep81",ca_ne_Lotz_20190403_580.csv,project_details(60).csv
+ca_ne_Lotz_20190122_TD,531,FALSE,GROSeq,"01, 02",ca_ne_Lotz_20190122_TD_531.csv,project_details(61).csv
+ca_ne_lotz_20181219,538_545_557,FALSE,miRNAseq,"01condDMSOrep50, 02condKA34rep50, 03condDMSOrep80, 04condKA34rep80, 05condDMSOrep21, 06condKA34rep21, 07condDMSOrep79, 08condKA34rep79, 09condDMSOrep81, 10condKA34rep81",ca_ne_lotz_20181219_538_545_557.csv,project_details(62).csv
+ca_ne_Lotz_20181211_TD,519,TRUE,ChIPSeq,chipseq01,noinfo_ca_ne_Lotz_20181211_TD_519.csv,project_details(63).csv
+ca_ne_lotz_20181019_OA,499,FALSE,RNAseq_PolyA,"01condDMSOrep50, 02condKA34rep50, 03condDMSOrep80, 04condKA34rep80, 05condDMSOrep21, 06condKA34rep21, 07condDMSOrep79, 08condKA34rep79, 09condDMSOrep81, 10condKA34rep81",ca_ne_lotz_20181019_OA_499.csv,project_details(64).csv
+ca_ne_lotz_20181023_JL.10X,501,FALSE,RNASeq_10XChromium,"01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 01CHONcndWTrep1bc1, 01CHONcndWTrep1bc2, 01CHONcndWTrep1bc3, 01CHONcndWTrep1bc4, 02CHONcndWTrep2bc1, 02CHONcndWTrep2bc2, 02CHONcndWTrep2bc3, 02CHONcndWTrep2bc4, 03CHONcndOArep1bc1, 03CHONcndOArep1bc2, 03CHONcndOArep1bc3, 03CHONcndOArep1bc4, 04CHONcndOArep2bc1, 04CHONcndOArep2bc2, 04CHONcndOArep2bc3, 04CHONcndOArep2bc4, 05AVAMcndWTrep1bc1, 05AVAMcndWTrep1bc2, 05AVAMcndWTrep1bc3, 05AVAMcndWTrep1bc4, 06AVAMcndWTrep2bc1, 06AVAMcndWTrep2bc2, 06AVAMcndWTrep2bc3, 06AVAMcndWTrep2bc4, 07VASMcndWTrep1bc1, 07VASMcndWTrep1bc2, 07VASMcndWTrep1bc3, 07VASMcndWTrep1bc4, 08VASMcndWTrep2bc1, 08VASMcndWTrep2bc2, 08VASMcndWTrep2bc3, 08VASMcndWTrep2bc4, 09AVAMcndOArep1bc1, 09AVAMcndOArep1bc2, 09AVAMcndOArep1bc3, 09AVAMcndOArep1bc4, 10AVAMcndOArep2bc1, 10AVAMcndOArep2bc2, 10AVAMcndOArep2bc3, 10AVAMcndOArep2bc4, 11VASMcndOArep1bc1, 11VASMcndOArep1bc2, 11VASMcndOArep1bc3, 11VASMcndOArep1bc4, 12VASMcndOArep2bc1, 12VASMcndOArep2bc2, 12VASMcndOArep2bc3, 12VASMcndOArep2bc4",ca_ne_lotz_20181023_JL.10X_501.csv,project_details(65).csv
+ca_ne_lotz_20180928_TD,496,FALSE,SMARTer,"CR2KO1, CR2KO2, CR2KO6, WT2, WT4, WT6",ca_ne_lotz_20180928_TD_496.csv,project_details(66).csv
+ca_ne_lotz_20180612_JL_10x,429_433,FALSE,10XRNASeq_Chromium,"1_NC, 1_NCa, 2_OC, 2_OCa, 3_NVAS, 3_NVASa, 4_NAVAS, 4_NAVASa, 5_OVAS, 5_OVASa, 6_OAVAS, 6_OAVASa",ca_ne_lotz_20180612_JL_10x_429_433.csv,project_details(67).csv
+Lotz_021518.HB,350,FALSE,ChIPseq,"1_Normal_foxo1-021518, 2_Normal_foxo3-021518, 3_WCE-021518, 4_TKA_foxo3-022318, 5_WCE-022318",Lotz_021518.HB_350.csv,project_details(68).csv
+Lotz_080117,300,FALSE,RNAseq_PolyA,"PpMY-062, PpMY-063, PpMY-070, PpMY-071",Lotz_080117_300.csv,project_details(69).csv
+ca_ns_lotz_20230628_1_JCseq_mouse_IK,10300_10322,TRUE,JCSeq,02idIK02,noinfo_ca_ns_lotz_20230628_1_JCseq_mouse_IK_10300_10322.csv,project_details(7).csv
+Lotz_072117,288,FALSE,ChIPseq,"Elute_anti-foxo1, WCE",Lotz_072117_288.csv,project_details(70).csv
+Lotz_062217.HB,280,FALSE,chipseq,"F-4, in-4, x3_F, x3_in",Lotz_062217.HB_280.csv,project_details(71).csv
+Lotz_061517.SM,280,FALSE,chipseq,"Elute_antiRUNx2, WCE",Lotz_061517.SM_280.csv,project_details(72).csv
+Lotz_060217.SM,274,FALSE,RNAseq_PolyA,"KO-IMAC_mock_mRNA_3, KO-IMACP_WWP2_mRNA_3",Lotz_060217.SM_274.csv,project_details(73).csv
+Lotz_010917.TM,234,FALSE,ChIPSeq,"0107_Flag, 1221_Flag",Lotz_010917.TM_234.csv,project_details(74).csv
+Lotz_090916_Matsuzaki,190,FALSE,ChIPSeq,"1_Input, 2_ChIP_FLAG",Lotz_090916_Matsuzaki_190.csv,project_details(75).csv
+Lotz_072016_Chung,177,FALSE,RNA-Seq_Ribo_minus,"14-061, 14-063, 14-069, 14-073, 14-085, 15-009, 15-025, 16-003, 16-017, 16-019, 2015-030, 2015-036, 2015-037, 2015-038, 2015-056, 2015-073, 2015-076, 2015-082, 2015-090, 2015-096",Lotz_072016_Chung_177.csv,project_details(76).csv
+Lotz_070116,174,FALSE,RNA-Seq_Ribo_minus,"CT_37, CT_38, FT_32, FT_34",Lotz_070116_174.csv,project_details(77).csv
+Lotz_042116,149,FALSE,RNA Seq,"1_CT33, 2_CT33, 3_FT31, 4_FT31",Lotz_042116_149.csv,project_details(78).csv
+Lotz_03232016,141,FALSE,RNA Seq,"1_CT36, 2_FT30, 3_F3K21",Lotz_03232016_141.csv,project_details(79).csv
+ca_ns_lotz_20230507_0_RNAseq_human_MO,10313_10316,FALSE,RNASeq,"01idN1, 02idN2, 03idOA1, 04idOA2",ca_ns_lotz_20230507_0_RNAseq_human_MO_10313_10316.csv,project_details(8).csv
+Lotz_121415,103,FALSE,RNA-Seq_Ribo_minus,"10_S2012-23A, 11_S2011-65V, 12_S2011-65A, 1_K2014-50V, 2_K2014-50A, 3_K2014-64V, 4_K2014-64A, 5_K2014-3V, 6_K2014-3A, 7_S2014-35V, 8_S2014-35A, 9_S2012-23V",Lotz_121415_103.csv,project_details(80).csv
+Lotz_10302015,86,FALSE,RNAseq,"1_CT, 2_FT, 3_F3K",Lotz_10302015_86.csv,project_details(81).csv
+Lotz_071015,51,FALSE,RNA-Seq_Ribo_minus,"human_control, human_Foxo",Lotz_071015_51.csv,project_details(82).csv
+Lotz_07012015,51,FALSE,RNA-Seq_Ribo_minus,"Control, Foxo_triple_KO",Lotz_07012015_51.csv,project_details(83).csv
+Teramura_.Asahara_11102014,149,FALSE,RNASeq_Ribominus,"HY_1, HY_2, HY_3, HY_4, HY_5, HY_6, HY_7, HY_8",Teramura_.Asahara_11102014_149.csv,project_details(84).csv
+Asahara_111214,149,FALSE,ChIPSeq,"HA1, HA2, HA3, IgG1, IgG2, IgG3, TT2-1, TT2-2, TT2-3, TT2-4",Asahara_111214_149.csv,project_details(85).csv
+Lotz_11102014,NORUN,TRUE,NULL,,noinfo_Lotz_11102014_NORUN.csv,project_details(86).csv
+Lotz_091014,143,FALSE,RNAseq,"TT1, TT2, TT3, TT4, TT5, TT6, TT7, TT8",Lotz_091014_143.csv,project_details(87).csv
+Ryu_072514,142,FALSE,microRNA,"Ryu_1, Ryu_2, Ryu_3, Ryu_4, Ryu_5, Ryu_6, Ryu_7, Ryu_8, Ryu_9, Ryu_10, Ryu_11, Ryu_12, Ryu_13",Ryu_072514_142.csv,project_details(88).csv
+Lotz_RePrep_0710.14,137,FALSE,RNA-Seq_Ribo_minus,"10_T12_siBMAL1, 7_TO_siCtrl, 8_TO_siBHLHE40, 9_T12_siCtrl",Lotz_RePrep_0710.14_137.csv,project_details(89).csv
+ca_ns_lotz_20230324_0_JCseq_human_MK,10255,TRUE,RNA,01idXX,noinfo_ca_ns_lotz_20230324_0_JCseq_human_MK_10255.csv,project_details(9).csv
+Lotz_042314,136,FALSE,RNASeq,"1_T0_BHL, 1_T0_Ctl, 1_T12_BMA, 1_T12_Ctl, 1_T24_Ctl, 1_T24_NR1, 5_T0_BHL, 5_T0_Ctl, 5_T12_BMA, 5_T12_Ctl, 5_T24_Ctl, 5_T24_NR1",Lotz_042314_136.csv,project_details(90).csv
+Lotz_Ryu_miRNA_Cart_091613,110,TRUE,miRNASeq,OA_Cart_9_miRNA_3,noinfo_Lotz_Ryu_miRNA_Cart_091613_110.csv,project_details(91).csv
+Normal.cartilage.miRNA.library_09062013,108,FALSE,miRNA-Seq,"Normal_Cart_10_miRNA11, Normal_Cart_1_miRNA4, Normal_Cart_6_miRNA12, Normal_Cart_7_miRNA1, Normal_Cart_8_miRNA2, Normal_Cart_9_miRNA3",Normal.cartilage.miRNA.library_09062013_108.csv,project_details(92).csv
+OA.cartilage.miRNA.library_09062013,108,FALSE,miRNA-Seq,"OA_Cart_10_miRNA_4, OA_Cart_5_miRNA_12, OA_Cart_6_miRNA_1, OA_Cart_7_miRNA_11, OA_Cart_8_miRNA_2, OA_Cart_9_miRNA_3",OA.cartilage.miRNA.library_09062013_108.csv,project_details(93).csv
+NuGEN.Zonal.Cartilage.mRNA.library_03112013,105,FALSE,RNAseq-NuGenDR,"OA_Cart_DZ_1_9, OA_Cart_DZ_2_10, OA_Cart_DZ_3_11, OA_Cart_DZ_4_12, OA_Cart_MZ_1_5, OA_Cart_MZ_2_6, OA_Cart_MZ_3_7, OA_Cart_MZ_4_8, OA_Cart_SZ_1_1, OA_Cart_SZ_2_2, OA_Cart_SZ_3_3, OA_Cart_SZ_4_4",NuGEN.Zonal.Cartilage.mRNA.library_03112013_105.csv,project_details(94).csv
+RYU_NuGEN.Cartilage.mRNA.library_07102013,105,FALSE,RNAseq-NuGenDR,"2013_008_3_OA_Cart, 2013_010_2_OA_Cart, 2013_013_1_OA_Cart, 2013_018_13_OA_Cart, 2013_023_3_OA_Cart, S2013_012_1_Normal, S2013_017_1_Normal, S2013_021_3_Normal, S2013_022_1_Normal",RYU_NuGEN.Cartilage.mRNA.library_07102013_105.csv,project_details(95).csv
+NuGEN.Cartilage.mRNA.library_03112013,83_85,FALSE,RNAseq-NuGenDR,"Normal_Cart_1_1, Normal_Cart_2_2, Normal_Cart_3_3, Normal_Cart_4_4, Normal_Cart_5_5, Normal_Cart_6_6, OA_Cart_1_7, OA_Cart_2_8, OA_Cart_3_9, OA_Cart_4_10",NuGEN.Cartilage.mRNA.library_03112013_83_85.csv,project_details(96).csv
+TruSeq.zonal.cartilage.miRNA.library_03112013,81,FALSE,miRNA-Seq,"OA_Cart_DZ_1_9, OA_Cart_DZ_2_10, OA_Cart_DZ_3_11, OA_Cart_DZ_4_12, OA_CartMZ_1_5, OA_CartMZ_2_6, OA_CartMZ_3_7, OA_Cart_MZ_4_8, OA_CartSZ_1_1, OA_CartSZ_2_2, OA_CartSZ_3_3, OA_CartSZ_4_4",TruSeq.zonal.cartilage.miRNA.library_03112013_81.csv,project_details(97).csv
+Masahiko.mRNA._022213,78,FALSE,RNASeq_NUGEN,"OADZ1, OADZ2, OADZ3, OADZ4, OAMZ1, OAMZ2, OAMZ3, OAMZ4, OASZ1, OASZ2, OASZ3, OASZ4",Masahiko.mRNA._022213_78.csv,project_details(98).csv
+Masa_mRNA_020813,76,FALSE,RNASeq_NUGEN,"Normal_Cartilage1, Normal_Cartilage2, Normal_Cartilage3, Normal_Cartilage4, Normal_Cartilage5, Normal_Cartilage6, OA_Cartilage1, OA_Cartilage2, OA_Cartilage3, OA_Cartilage4",Masa_mRNA_020813_76.csv,project_details(99).csv
